@@ -1,3 +1,4 @@
+//Calculator GUI made by using tkinter
 from tkinter import *
 
 root=Tk()
